@@ -30,10 +30,10 @@ void loop() {
 
     if (isPressed[i]) {
       unsigned long heldTime = now - pressStart[i];
-      ledBrightness[i] = constrain(heldTime / 4, 0, 255);  // slower rise
+      ledBrightness[i] = constrain(heldTime / 4, 0, 255);  
     } else {
       if (ledBrightness[i] > 0) {
-        ledBrightness[i] -= 5;  // fade out speed
+        ledBrightness[i] -= 5;  
         if (ledBrightness[i] < 0) ledBrightness[i] = 0;
       }
     }
@@ -41,5 +41,5 @@ void loop() {
     analogWrite(ledPins[i], ledBrightness[i]);
   }
 
-  delay(10);  // smooth update
+  delay(10);  
 }
