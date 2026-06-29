@@ -1,0 +1,6 @@
+Name,Purpose,Quantity,Total Cost (USD),Link,Distributor
+"PCB","The circuit board for the project",1,4.00,"https://jlcpcb.com","JlcPCB"
+"XIAO RP2040","The microcontroller for the project",1,6.64,"https://robocraze.com/products/seeed-studio-xiao-rp2040-development-board","Robocraze"
+"Resistors","To control the flow of energy in the circuit",4,0.30,"https://robocraze.com/products/1k-resistor-pack-of-10?variant=40194234155161","Robocraze"
+"LEDs","light emitting diodes",4,0.50,"https://robocraze.com/products/5-mm-orange-led-pack-of-10","Robocraze"
+"Cherry mx switches","the switches!!!",4,2.00,"https://stackskb.com/store/click-inc-of-linear-switch-pack-of-10/","StacksKB"
