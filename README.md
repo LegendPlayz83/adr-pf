@@ -1,5 +1,5 @@
 # adr-pf
-This is a PCB made in Pathfinder consisting of 4 keys, 4 LEDs, 4 Resistors, and an XIAO rp2040.
+This is a PCB made in Pathfinder consisting of 4 keys, 4 LEDs, 4 Resistors, and an XIAO rp2040. I wanted to make a PCB using Xiao RP2040 as the microcontroller along some LEDs for small fun :p
 
 3D view- <br>
 <img width="751" height="477" alt="3d vuew" src="https://github.com/user-attachments/assets/548d3764-ba32-48c1-b416-0f08228d6226" />
